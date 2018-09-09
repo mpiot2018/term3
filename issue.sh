@@ -10,7 +10,7 @@ sudo echo '=====================  IOT Server  ===++++++++++++++++++++++=========
 sudo echo '=      Access to this computer system is limited to authorised users only.     =' >> /etc/issue
 sudo echo '=      Unauthorised users may be subject to prosecution under the Crimes       =' >> /etc/issue
 sudo echo '=                          Act or State legislation.                           =' >> /etc/issue
-sudo echo '=         Please note, All details are confidential and must                   =' >> /etc/issue
+sudo echo '=         Please note, All details are confidential and not disclosed          =' >> /etc/issue
 sudo echo '================================================================================' >> /etc/issue
 sleep 1
 sudo chmod 644 /etc/issue
