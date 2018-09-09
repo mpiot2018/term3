@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
 echo " ############################################################# "
-echo " ##   Scenario1 Melbourne Polytechnic IOT Class             ## "
-echo " ##  Term 3 2018  - Gavin Jackson                           ## "
+echo " ##   Scenario2 IOT Class                                   ## "
+echo " ##  Term 3 2018                                            ## "
 echo " ############################################################# "
 echo " Press a key to continue  "
 read l 
