@@ -1,5 +1,6 @@
+
+<b>A repository to hold files that are used for configure a simple IoT raspberry pi server using raspian. </b>
 <ul>
-<li>A repository to hold files that are used for configure a simple IoT raspberry pi server using raspian.</li>
     <li>Steps to use are:</li>
     <li>Install BerryBoot onto the SD card (Replacing noobs)</li>
     <li>From the USB key install the Raspian lite version as this will be a headless machine</li>
