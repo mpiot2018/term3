@@ -6,7 +6,7 @@ sudo touch /etc/issue
 sudo chmod 777 /etc/issue
 sudo chown root /etc/issue
 sudo chgrp root /etc/issue
-sudo echo '=====================  OOT Server  Melbourne Polytechnic =======================' >> /etc/issue
+sudo echo '=====================  IOT Server  ===++++++++++++++++++++++====================' >> /etc/issue
 sudo echo '=      Access to this computer system is limited to authorised users only.     =' >> /etc/issue
 sudo echo '=      Unauthorised users may be subject to prosecution under the Crimes       =' >> /etc/issue
 sudo echo '=                          Act or State legislation.                           =' >> /etc/issue
