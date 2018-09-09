@@ -10,3 +10,5 @@ Login as pi user
     (Read Only)
 5 - Run the issue script to change the basic pre login welcome script
 6 - Run the motd script to change the basic post login process
+7 - Run the dashboard script to install a basic kiosk and configure for autoload on startup
+   (Requires raspi-config login set to CLI with autologin
