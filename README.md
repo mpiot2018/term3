@@ -14,5 +14,5 @@
     <li>5 - Run the issue script to change the basic pre login welcome script </li>
     <li>6 - Run the motd script to change the basic post login process </li>
 <li>7 - Run the dashboard script to install a basic kiosk and configure for autoload on startup </li>
-   (Requires raspi-config login set to CLI with autologin)
+   (Requires raspi-config login set to CLI with autologin) - does not work on Pi 3+  , only Pi3 .. to be resolved
 </ul>
