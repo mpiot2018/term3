@@ -1,11 +1,11 @@
 #!/bin/bash
 clear
-sudo echo '=====================  IOT Server  Melbourne Polytechnic =======================' 
+sudo echo '=====================  IOT Server+++++++++++++++++++++++ =======================' 
 sudo echo '=      Access to this computer system is limited to authorised users only.     ='
 sudo echo '=      Unauthorised users may be subject to prosecution under the Crimes       ='
 sudo echo '=                          Act or State legislation.                           ='
 sudo echo '=         Please note, All details are confidential and must                   ='
-sudo echo '================================================================================'e
+sudo echo '================================================================================'
 sleep 1
 sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox -y
 sudo apt-get install --no-install-recommends chromium-browser -y
